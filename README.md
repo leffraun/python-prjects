@@ -5,4 +5,5 @@ here's where my budding python projects will be
 - password generator
 - to do list
 - calculator (with two operands and simple operations)
+- calculator (whole addition and whole subtraction)
 
