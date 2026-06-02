@@ -6,4 +6,5 @@ here's where my budding python projects will be
 - to do list
 - calculator (with two operands and simple operations)
 - calculator (whole addition and whole subtraction)
+- rearrangement of sentences based on length and then alphabetic order
 
