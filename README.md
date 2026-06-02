@@ -7,4 +7,5 @@ here's where my budding python projects will be
 - calculator (with two operands and simple operations)
 - calculator (whole addition and whole subtraction)
 - rearrangement of sentences based on length and then alphabetic order
+- count the frequency of each letter in sentence based in descending order
 
