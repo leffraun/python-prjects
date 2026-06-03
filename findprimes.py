@@ -15,5 +15,15 @@ def collect_primes(num):
             primes.append(i)
 
     return primes
-num=int(input("enter the N:"))
-print("the numbers from 2 to",num," are:",collect_primes(num))
+try:
+    num=int(input("enter the N:"))
+    if num>1:
+        primes=collect_primes(num)
+        if primes:
+            print("the numbers from 2 to",num," are:",collect_primes(num))
+        else:
+            print("no primes found")
+    else:
+        print("only positive numbers from two allowed")
+except ValueError:
+    print("positive")
