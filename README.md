@@ -9,4 +9,6 @@ here's where my budding python projects will be
 - rearrangement of sentences based on length and then alphabetic order
 - count the frequency of each letter in sentence based in descending order
 - count the sum of unique number of elements in a list
+- to check whether a number is prime or not
+- to find number of primes between 2 and a given number
 
