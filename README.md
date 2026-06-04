@@ -11,4 +11,5 @@ here's where my budding python projects will be
 - count the sum of unique number of elements in a list
 - to check whether a number is prime or not
 - to find number of primes between 2 and a given number
+- count the number of characters, words and lines in a text file
 
