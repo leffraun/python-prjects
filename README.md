@@ -12,4 +12,5 @@ here's where my budding python projects will be
 - to check whether a number is prime or not
 - to find number of primes between 2 and a given number
 - count the number of characters, words and lines in a text file
+- create and put info into a csv file manually
 
